@@ -10,6 +10,7 @@ void hanoi_test()
     char enter;
     int count = 0;
     printf("ÇëÊäÈëÊı×Ö:");
+	
     while (n <= 0)
     {
         scanf("%d%c", &n,&enter);

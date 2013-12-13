@@ -9,6 +9,7 @@ void hanoi_test()
     int n = 0;
     char enter;
     int count = 0;
+	
     printf("ÇëÊäÈëÊı×Ö:");
 	
     while (n <= 0)

@@ -2,6 +2,8 @@
 #include <iostream>
 #include <assert.h>
 #include "LoopQueue.h"
+#include "stringb_in_stringa.h"
+
 using namespace std;
 //test git
 void hanoi_test()
@@ -91,7 +93,7 @@ int main()
     //fibonacci_test();
     //sort_test();
     //LoopQueue_test();
-    
+    test_stringa_in_stringb();
     cin.get();
     return 0;
 }

@@ -178,6 +178,10 @@
 				RelativePath=".\main.cpp"
 				>
 			</File>
+			<File
+				RelativePath=".\stringb_in_stringa.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Í·ÎÄ¼þ"
@@ -194,6 +198,10 @@
 			</File>
 			<File
 				RelativePath=".\smartptr.h"
+				>
+			</File>
+			<File
+				RelativePath=".\stringb_in_stringa.h"
 				>
 			</File>
 		</Filter>

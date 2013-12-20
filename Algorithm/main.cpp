@@ -5,7 +5,7 @@
 #include "stringb_in_stringa.h"
 
 using namespace std;
-//test git
+
 void hanoi_test()
 {
     int n = 0;

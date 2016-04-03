@@ -5,7 +5,7 @@
 void test_stringa_in_stringb()
 {
 	char* pa = "oooopqrst";
-	char* pb = "oooost";
+	char* pb = "oooosttrew";
 	char* pc = "hellozp";
 	bool bIn = false;
 	bIn = stringb_in_string2(pa, pb);
